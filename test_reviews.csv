@@ -1,6 +1,0 @@
-review_title,review_body,rating,product_id,category
-Broken battery,The battery stopped working after two days and got extremely hot.,1,PROD-001,Electronics
-Late shipping,The item arrived 10 days later than expected and box was damaged.,2,PROD-002,Logistics
-Awesome product,This is the best phone case I have ever bought! Highly recommended.,5,PROD-003,Accessories
-Spam review,??? !!! http://unknown-link.com 12345,1,PROD-004,General
-Wrong color,I ordered a blue jacket but received a red one instead.,2,PROD-005,Apparel
